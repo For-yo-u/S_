@@ -1342,3 +1342,4 @@ document.addEventListener("DOMContentLoaded", function () {
         })
         .catch(error => console.log("❌ Failed to get IP info", error));
 });
+
